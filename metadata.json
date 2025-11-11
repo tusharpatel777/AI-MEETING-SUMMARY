@@ -1,0 +1,5 @@
+{
+  "name": "AI Meeting Memory & Task Agent",
+  "description": "An intelligent assistant that processes meeting transcripts to extract summaries, key decisions, action items, and calendar events. It acts as a project co-pilot, maintaining long-term memory to track progress and provide contextual insights across multiple meetings.",
+  "requestFramePermissions": []
+}
